@@ -81,29 +81,21 @@ before scaling up could be a prudent strategy.
 ## Question 5.
 Reflecting on how I approached creating the Power BI dashboard to align with CEO Sumera's preferences for simplicity, big numbers, mobile accessibility, and her aversion to clutter and dark themes, I made several deliberate choices:
 
-•	Clean and Simple Layout
-I opted for a minimalist design, carefully arranging the visual components to ensure the dashboard remains uncluttered. I prioritized whitespace and used it strategically to make the dashboard feel more open and less crowded, ensuring that the data presented is the focal point.
+•	Clean and Simple Layout: I opted for a minimalist design, carefully arranging the visual components to ensure the dashboard remains uncluttered. I prioritized whitespace and used it strategically to make the dashboard feel more open and less crowded, ensuring that the data presented is the focal point.
 
-•	Emphasis on Key Metrics
-Understanding the importance of key metrics, I chose large, bold fonts to make these figures stand out. This approach was intended to capture attention immediately and make the information easily digestible at a glance, which I believe is critical for effective decision-making.
+•	Emphasis on Key Metrics: Understanding the importance of key metrics, I chose large, bold fonts to make these figures stand out. This approach was intended to capture attention immediately and make the information easily digestible at a glance, which I believe is critical for effective decision-making.
 
-•	Light and Neutral Color Scheme
-I selected a light and neutral color palette for the dashboard's background and elements to adhere to Sumera's dislike for dark themes. I used color judiciously to highlight important data points and indicators, such as using green to denote positive growth and red for areas needing attention, ensuring these visual cues are clear and intuitive.
+•	Light and Neutral Color Scheme: I selected a light and neutral color palette for the dashboard's background and elements to adhere to Sumera's dislike for dark themes. I used color judiciously to highlight important data points and indicators, such as using green to denote positive growth and red for areas needing attention, ensuring these visual cues are clear and intuitive.
 
-•	Clear Visualizations
-I incorporated simple yet effective charts and graphs to represent the data. My choice of visualizations—bar charts, line graphs, and pie charts—was guided by the need for clarity and ease of interpretation. I made sure these visualizations were not overly complex and included clear labels for immediate comprehension.
+•	Clear Visualizations: I incorporated simple yet effective charts and graphs to represent the data. My choice of visualizations—bar charts, line graphs, and pie charts—was guided by the need for clarity and ease of interpretation. I made sure these visualizations were not overly complex and included clear labels for immediate comprehension.
 
-•	Prioritizing Mobile Accessibility
-Given the emphasis on mobile accessibility, I utilized Power BI's mobile layout view to arrange visuals in a way that they're easily navigable and readable on smaller screens. This ensures that Sumera can access the dashboard and derive insights no matter where she is, directly from her mobile device.
+•	Prioritizing Mobile Accessibility: Given the emphasis on mobile accessibility, I utilized Power BI's mobile layout view to arrange visuals in a way that they're easily navigable and readable on smaller screens. This ensures that Sumera can access the dashboard and derive insights no matter where she is, directly from her mobile device.
 
-•	Interactive Elements for Depth
-While maintaining a simple overall design, I introduced interactive elements like filters and drill-down capabilities. This allows for a deeper exploration of the data without overcomplicating the initial view. It's a balance between simplicity and functionality, enabling Sumera to delve into specifics as needed.
+•	Interactive Elements for Depth: While maintaining a simple overall design, I introduced interactive elements like filters and drill-down capabilities. This allows for a deeper exploration of the data without overcomplicating the initial view. It's a balance between simplicity and functionality, enabling Sumera to delve into specifics as needed.
 
-•	Regular Updates and Iteration
-I ensured the dashboard is regularly updated with the latest data, automating data refreshes wherever possible. This commitment to providing the most current insights is crucial for timely and informed decision-making.
+•	Regular Updates and Iteration: I ensured the dashboard is regularly updated with the latest data, automating data refreshes wherever possible. This commitment to providing the most current insights is crucial for timely and informed decision-making.
 
-•	Soliciting Feedback
-Finally, after presenting the dashboard to Sumera, I sought her feedback on its layout, design, and usability, especially on mobile devices. Her insights are invaluable, and I plan to use them for continuous improvement of the dashboard, ensuring it remains an effective tool for our decision-making process.
+•	Soliciting Feedback: Finally, after presenting the dashboard to Sumera, I sought her feedback on its layout, design, and usability, especially on mobile devices. Her insights are invaluable, and I plan to use them for continuous improvement of the dashboard, ensuring it remains an effective tool for our decision-making process.
 
 By adhering to these principles, I aimed to create a Power BI dashboard that not only meets Sumera's requirements but also enhances our ability to make informed decisions quickly and efficiently, leveraging the latest sales data across our departmental stores chain.
 
