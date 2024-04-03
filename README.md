@@ -18,33 +18,48 @@ Answer: Given the scale of the business and the sales volume, it's crucial to se
 large datasets efficiently, provide deep insights through interactive visualizations, and accommodate the 
 iterative addition of new data. Let's evaluate Power BI and Streamlit based on these requirements.
 Power BI
+
 Pros:
+
 • Scalability: Power BI can handle large datasets efficiently, especially when using Power BI Pro or 
 Premium for enhanced data refresh rates and more storage.
+
 • Integration: Seamless integration with other Microsoft products, such as Excel and Azure, which 
 could be beneficial if your company already uses these tools.
+
 • Visualization: Offers a wide range of visualization options that are easy to use for creating 
 comprehensive dashboards.
+
 • Collaboration: Power BI reports can be easily shared and published within the organization, 
 including scheduled automatic updates.
+
 Cons:
 • Cost: While there is a free version, the Pro and Premium versions, which offer necessary 
 capabilities for large-scale businesses, come with a subscription cost.
+
 • Complexity: Some of the more advanced features have a steep learning curve.
+
 Streamlit
+
 Pros:
 • Flexibility: Being Python-based, it offers vast flexibility in terms of data manipulation, analysis, 
 and the ability to use the entire Python ecosystem.
+
 • Development Speed: Quick to develop and deploy data applications, especially for data 
 scientists and analysts familiar with Python.
+
 • Cost-Effective: Streamlit itself is free, and you can host applications on various platforms, 
 depending on your budget and requirements.
+
 Cons:
+
 • Scalability: While Streamlit is excellent for quick development, handling very large datasets 
 efficiently may require additional engineering effort, such as optimizing the app or managing the 
 server infrastructure.
+
 • Visualization and UI Polish: While Streamlit supports many charting libraries, the out-of-the-box 
 visualization options are not as extensive or as polished as those in Power BI.
+
 Recommendation
 Given the large scale of your business and the emphasis on weekly sales reporting across various stores 
 and departments, Power BI would likely be the more suitable choice. Its robust data handling 
@@ -52,10 +67,12 @@ capabilities, integration with existing business systems, and extensive visualiz
 powerful tool for creating comprehensive dashboards. Power BI's ability to manage large datasets 
 efficiently and its native integration with Microsoft's ecosystem (potentially including your POS system) 
 can provide the scalability and reliability needed for your business.
+
 Moreover, the collaborative and sharing features of Power BI align well with the need to regularly update 
 and distribute reports to the CEO and other stakeholders. While Streamlit offers great flexibility and 
 development speed, the requirements for scalability, data integration, and polished visualization lean 
 towards Power BI as the better tool for this specific scenario.
+
 However, it's important to consider the subscription cost of Power BI Pro or Premium as part of your 
 decision. If cost is a significant concern, starting with Power BI's free version to validate the approach 
 before scaling up could be a prudent strategy.
