@@ -1,4 +1,4 @@
-
+#Departmental Stores Sales Dashboard
 I used Power BI to come up with insights and suggestions to help the CEO make effective decisions
 #This was the task I was required to do:
 You are the Data Analyst for a Chain of Departmental stores. The CEO has asked you to make a weekly sales dashboard/report. There is no data pipeline/warehouse available as such. Weekly data is extracted using a data tool connected to the POS at every store. The senior assistant (Suleman) has extracted a number of files for you to add to your report/dashboard. Every week Suleman will send you this data and you will expected to update this dashboard and then send it to the CEO via a link or otherwise. 
