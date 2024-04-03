@@ -1,6 +1,6 @@
 # Departmental Stores Sales Dashboard
 I used Power BI to come up with insights and suggestions to help the CEO make effective decisions
-# This was the task I was required to do:
+## This was the task I was required to do:
 You are the Data Analyst for a Chain of Departmental stores. The CEO has asked you to make a weekly sales dashboard/report. There is no data pipeline/warehouse available as such. Weekly data is extracted using a data tool connected to the POS at every store. The senior assistant (Suleman) has extracted a number of files for you to add to your report/dashboard. Every week Suleman will send you this data and you will expected to update this dashboard and then send it to the CEO via a link or otherwise. 
 1.	You have been asked to decide the tool to do this task, what are the pros and cons of pbi vs streamlit. What would you recommend to your CEO and why. Understand the scale of the business and the sales before answering this question.
 2.	The CEO (Sumera) has told you that it is common practice to compare weekly data to the year before. For e.g Sumera wants to see how well Store 3, Dept 1 did in Week 20 this year as compared to Week 20 last year. She also wants to see bigger picture by store and department.
